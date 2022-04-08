@@ -1,4 +1,4 @@
-<h1>🪐 Bem vindo ao meu perfil! 🪐</h1>
+<h1> Bem vindo ao meu perfil! </h1>
 <h2>
   💻 Amante da tecnologia <br>
   ✒️ Estudando para ser Full-stack Dev. <br>
