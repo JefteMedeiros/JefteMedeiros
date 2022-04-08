@@ -1,4 +1,4 @@
-## Hi, I am WILL SILVA (Front-End Developer)  👋
+## Hi, I am Jefté Medeiros (Front-End Developer) 🤙🏼
 
 <div align="center">
   <a href="https://github.com/JefteMedeiros">
