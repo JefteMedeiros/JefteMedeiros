@@ -14,7 +14,7 @@
   <img height="30" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Jeffao-c#">
   <img height="30" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="Jeffao-dotnet">
   <img align="center" alt="Jeff-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Jeff-mysql" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" >  
+  <img align="center" alt="Jeff-mysql" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" >  
 </div>
   
   ##
