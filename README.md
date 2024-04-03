@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/JefteMedeiros">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeftemedeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=nick-gabe&style=for-the-badge&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&show_icons=true&icon_color=F2F2F2&rank_icon=github"/></p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeftemedeiros&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
