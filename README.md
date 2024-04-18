@@ -5,7 +5,7 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/?username=JefteMedeiros&style=for-the-badge&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&show_icons=true&icon_color=F2F2F2&rank_icon=github"/>
   </p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeftemedeiros&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefteMedeiros&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jeff-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
